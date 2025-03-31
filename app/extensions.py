@@ -14,6 +14,8 @@ jwt = JWTManager()
 # oauth
 oauth = OAuth()
 
+
+
 # rest api 
 api = Api(
     title="Resume Optimizer API",
